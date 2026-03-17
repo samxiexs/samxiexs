@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-**Looking for**: PhD opportunities in **CS / IS / DS**  
+**Looking for**: PhD opportunities in **CS / IS**  
 **Target intake**: **Fall 2028**
 
 ---
