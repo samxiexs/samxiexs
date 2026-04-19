@@ -33,47 +33,56 @@
 
 ## Technical Stack
 
+<strong>Languages</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32"/>
+<br><br>
+<strong>ML &amp; Data</strong><br>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="32"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32"/>
+<br><br>
+<strong>Systems &amp; Web</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="32"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="32"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32"/>
+
+---
+
 <table width="100%">
   <tr>
-    <td width="25%" valign="top">
-      <strong>Languages</strong><br><br>
-      <div valign="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/>
-      </div>
+    <td align="center" width="33%">
+      <a href='https://mapmyvisitors.com/web/1c2hi'>
+        <img src='https://mapmyvisitors.com/map.png?cl=50ba79&w=300&t=m&d=7XS0fxXx_tmCo2q6CydurvgoTbCePG-eEY0SklNr1ls&co=2d78ad&ct=ffffff'/>
+      </a>
     </td>
-    <td width="25%" valign="top">
-      <strong>ML &amp; Data</strong><br><br>
-      <div valign="center">
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="36"/>
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="36"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36"/>
-      </div>
+    <td align="center" width="33%">
+      <picture>
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css&theme=github_dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css&theme=default"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css" />
+      </picture>
     </td>
-    <td width="25%" valign="top">
-      <strong>Systems &amp; Web</strong><br><br>
-      <div valign="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="36"/>
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="36"/><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/>
-      </div>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <strong>GitHub Stats</strong><br><br>
-      coming soon…
+    <td align="center" width="33%">
+      <img src="https://github-readme-stats.vercel.app/api?username=ShenXiexs&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
     </td>
   </tr>
 </table>
-<a href='https://mapmyvisitors.com/web/1c2hi'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=50ba79&w=300&t=m&d=7XS0fxXx_tmCo2q6CydurvgoTbCePG-eEY0SklNr1ls&co=2d78ad&ct=ffffff'/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenxiexs&label=Profile%20views&color=0e75b6&style=flat" alt="shenxiexs" /> </p>
