@@ -77,7 +77,7 @@
       </picture>
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShenXiexs&show_icons=true&include_all_commits=true&count_private=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ShenXiexs&show_icons=true&theme=tokyonight&cache_seconds=1800" />
     </td>
   </tr>
 </table>
