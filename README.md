@@ -64,24 +64,9 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="50%">
       <a href='https://mapmyvisitors.com/web/1c2hi'>
         <img src='https://mapmyvisitors.com/map.png?cl=50ba79&w=300&t=m&d=7XS0fxXx_tmCo2q6CydurvgoTbCePG-eEY0SklNr1ls&co=2d78ad&ct=ffffff'/>
       </a>
-    </td>
-    <td align="center" width="50%">
-      <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css&theme=github_dark"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css&theme=default"
-          media="(prefers-color-scheme: light)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenXiexs&layout=compact&langs_count=6&hide=html,css" />
-      </picture>
-    </td>
   </tr>
 </table>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenxiexs&label=Profile%20views&color=0e75b6&style=flat" alt="shenxiexs" /> </p>
