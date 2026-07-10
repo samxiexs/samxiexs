@@ -2,26 +2,14 @@
   <img src="welcome-header.gif" alt="Welcome to Shen Xie's GitHub profile">
   <br><br>
 
-
   <h2>Hi, I'm Shen Xie (Sam) 👋</h2>
-  <p>
-    Research-oriented student working across
-    <strong>Information Systems</strong>,
-    <strong>Machine Learning</strong>, and
-    <strong>Social Science</strong>.
-  </p>
-
 </div>
 
 ---
 
 ## About Me
 
-I am currently a **Research Assistant at ISOM & AI Lab, HEC Paris**, with prior research experience at **Wuhan University** and **HKUST ISOM**.
-
-In Fall 2026, I will join **Georgia Tech** for the **M.S. in Computational Science and Engineering** program.
-
-I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
+I am currently a **Research Assistant at ISOM & AI Lab, HEC Paris**, with prior research experience at **Wuhan University** and **HKUST ISOM**. In Fall 2026, I will join **Georgia Tech** for the **M.S. in Computational Science and Engineering** program. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
 
 **Looking for:** PhD opportunities in **Computer Science / Information Systems**  
 **Target intake:** **Fall 2028**
@@ -50,7 +38,6 @@ I am interested in building rigorous, data-driven research that connects machine
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" alt="Linux"/>
 </p>
 
-
 <p>
   <strong>Machine Learning & Data</strong><br>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="32" alt="PyTorch"/>
@@ -58,7 +45,6 @@ I am interested in building rigorous, data-driven research that connects machine
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="32" alt="scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="32" alt="pandas"/>
 </p>
-
 
 <p>
   <strong>Systems & Infrastructure</strong><br>
@@ -71,7 +57,6 @@ I am interested in building rigorous, data-driven research that connects machine
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="32" alt="Node.js"/>
 </p>
 
-
 ---
 
 ## Visitors
@@ -82,9 +67,6 @@ I am interested in building rigorous, data-driven research that connects machine
   </a>
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shenxiexs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
-
