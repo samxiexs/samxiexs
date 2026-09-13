@@ -21,19 +21,16 @@
 
 Hi, I'm Shen Xie (Sam) 👋
 
-I am currently a M.S. student in Computational Science and Engineering at **Georgia Tech**. Prior to that, I worked as a full-time Research Assistant at **ISOM & AI Lab, HEC Paris**, with previous research experience at **Wuhan University** and **ISOM, HKUST**. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
-
-**Looking for:** PhD opportunities in **Computer Science / Information Systems**  
-**Target intake:** **Fall 2028**
+I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for **ISOM & AI Lab, HEC Paris**, with previous research experience at **Wuhan University** and **ISOM, Hong Kong University of Science and Technology**. I am interested in building rigorous, data-driven research that connects machine learning systems with real platform, market, and user behavior.
 
 ---
 
 ## Research Interests
 
 - Recommender systems and ranking models
-- Human-AI interaction and platform strategy
-- Online reviews, information design, and digital platforms
-- Causal inference and machine learning for marketing and social science
+- Human-AI interaction
+- Platforms deisgn
+- Causal inference and machine learning for information systems and social science
 
 ---
 
