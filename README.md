@@ -34,6 +34,17 @@ I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for
 
 ---
 
+<details>
+<summary>📊 Weekly Development Breakdown</summary>
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+---
+
 <table align="center">
   <tr>
     <td width="460" valign="top">
