@@ -171,7 +171,7 @@ I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for
 
 <p>
   <img
-    src="https://komarev.com/ghpvc/?username=shenxiexs&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
+    src="https://komarev.com/ghpvc/?username=samxiexs&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
     alt="Profile views"
   />
 </p>
