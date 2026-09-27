@@ -41,11 +41,15 @@ I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2026 - To: 25 September 2026
+From: 19 September 2026 - To: 26 September 2026
 
-Total Time: 0 secs
+Total Time: 15 hrs 5 mins
 
-No activity tracked
+Other        6 hrs 15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+Markdown     6 hrs 12 mins         ███████▒░░░░░░░░░░░░░░░░░   29.07 %
+Python       4 hrs 24 mins         █████░░░░░░░░░░░░░░░░░░░░   20.63 %
+TeX          1 hr 45 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Bash         1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
