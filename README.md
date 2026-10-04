@@ -185,13 +185,6 @@ TeX          31 mins               ▒░░░░░░░░░░░░░░
   </a>
 </p>
 
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=samxiexs&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat"
-    alt="Profile views"
-  />
-</p>
-
 </td>
   </tr>
 </table>
