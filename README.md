@@ -41,18 +41,18 @@ I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2026 - To: 19 October 2026
+From: 13 October 2026 - To: 20 October 2026
 
-Total Time: 32 hrs 46 mins
+Total Time: 33 hrs 11 mins
 
-Python       14 hrs 28 mins        █████████▓░░░░░░░░░░░░░░░   38.27 %
-Markdown     11 hrs 20 mins        ███████▒░░░░░░░░░░░░░░░░░   29.99 %
-Other        5 hrs 3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
-TeX          3 hrs 16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-Git Config   51 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Stata        40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-Text         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-TypeScript   20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python       14 hrs 24 mins        █████████▒░░░░░░░░░░░░░░░   36.90 %
+Markdown     11 hrs 37 mins        ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+Other        5 hrs 50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+TeX          3 hrs 36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+Git Config   50 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Stata        40 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Text         30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TypeScript   20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
