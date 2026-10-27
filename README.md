@@ -41,18 +41,18 @@ I am currently a student in CSE at **Georgia Tech**. Prior to that, I worked for
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-Total Time: 24 hrs 39 mins
+Total Time: 26 hrs 52 mins
 
-Python       12 hrs 56 mins        ███████████░░░░░░░░░░░░░░   43.60 %
-Markdown     5 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
-Other        5 hrs 2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.96 %
-TeX          3 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 %
-Stata        46 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Text         40 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-JSON         33 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-CSV          19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Python       16 hrs 3 mins         █████████████░░░░░░░░░░░░   51.58 %
+TeX          4 hrs 47 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Other        4 hrs 15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+Markdown     3 hrs 42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Stata        36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JSON         35 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Text         20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+HTML         19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
